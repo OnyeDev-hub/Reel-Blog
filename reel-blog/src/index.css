@@ -119,3 +119,6 @@
   cursor: pointer;
   font-size: 26px;
 }
+.not-found a:hover {
+  text-decoration: underline;
+}
